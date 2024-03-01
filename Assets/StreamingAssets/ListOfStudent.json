@@ -1,0 +1,68 @@
+[
+    {
+        "name": "钟离",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Yan.png",
+        "characterPath":"/Pictures/1.png"
+    },
+    {
+        "name": "甘雨",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Bing.png",
+        "characterPath":"/Pictures/2.png"
+    },
+    {
+        "name": "枫原万叶",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Feng.png",
+        "characterPath":"/Pictures/3.png"
+    },
+    {
+        "name": "散兵",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Feng.png",
+        "characterPath":"/Pictures/4.png"
+    },
+    {
+        "name": "迪卢克",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Huo.png",
+        "characterPath":"/Pictures/5.png"
+    },
+    {
+        "name": "安柏",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Huo.png",
+        "characterPath":"/Pictures/6.png"
+    },
+    {
+        "name": "可莉",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Huo.png",
+        "characterPath":"/Pictures/7.png"
+    },
+    {
+        "name": "九条裟罗",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Lei.png",
+        "characterPath":"/Pictures/8.png"
+    },
+    {
+        "name": "雷电将军",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Lei.png",
+        "characterPath":"/Pictures/9.png"
+    },
+    {
+        "name": "莫娜",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Shui.png",
+        "characterPath":"/Pictures/10.png"
+    },
+    {
+        "name": "行秋",
+        "weight": "1",
+        "elementPath":"/Pictures/Element_Shui.png",
+        "characterPath":"/Pictures/11.png"
+    }
+]
